@@ -1,0 +1,58 @@
+
+Loading corpus: input.txt
+  Total characters : 1,115,394
+  Vocabulary size  : 65 unique characters
+  Characters       : "\n !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZa"...
+  Training tokens  : 1,003,854
+  Validation tokens: 111,540
+
+Model parameters : 281,665
+Training for     : 4000 steps
+
+  Step    Train Loss    Val Loss
+------------------------------------
+     0        4.2368      4.2372
+   300        2.4313      2.4419
+   600        2.3333      2.3413
+   900        2.2628      2.2983
+  1200        2.2146      2.2566
+  1500        2.1609      2.2141
+  1800        2.1149      2.1702
+  2100        2.0731      2.1455
+  2400        2.0366      2.1300
+  2700        2.0122      2.1049
+  3000        1.9806      2.0683
+  3300        1.9488      2.0624
+  3600        1.9269      2.0207
+  3900        1.9026      2.0127
+  3999        1.8868      1.9988
+
+============================================================
+GENERATED SAMPLE (500 characters):
+============================================================
+Fory, stweer dikesputs: my poer hangurpy.
+
+CIChave all worn's not thy; witere.
+
+BELY:
+St Virdilden:
+Tho beamer, an hen you core beang firt.
+
+BY ENAUS:
+I ma all. fortul wnothy men is slen, I't'll melve hupice?
+
+ENIUS:
+Soly; be good ind son ayalll ife, yepirent for yours le.
+I frothm bee word that this suwe: I
+I that doney'd wil-pod strool she wifity, loke not
+Thin loven, at.
+
+Fa ethe tollfo The Comeest Fonce severfeie sunnt.-stelanty Edo Herue:
+Shis and that one sall.
+
+Fown; all-Kie:
+Be, arsot ay 
+============================================================
+
+Training complete.
+Include the loss table above and the generated sample in your analysis.pdf.

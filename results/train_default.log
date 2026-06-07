@@ -1,0 +1,48 @@
+
+Loading corpus: input.txt
+  Total characters : 1,115,394
+  Vocabulary size  : 65 unique characters
+  Characters       : "\n !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZa"...
+  Training tokens  : 1,003,854
+  Validation tokens: 111,540
+
+Model parameters : 41,921
+Training for     : 3000 steps
+
+  Step    Train Loss    Val Loss
+------------------------------------
+     0        4.1743      4.1739
+   300        2.5734      2.5749
+   600        2.4632      2.4765
+   900        2.4097      2.4363
+  1200        2.3889      2.4059
+  1500        2.3673      2.3889
+  1800        2.3584      2.3801
+  2100        2.3478      2.3682
+  2400        2.3321      2.3459
+  2700        2.3185      2.3446
+  2999        2.3160      2.3339
+
+============================================================
+GENERATED SAMPLE (500 characters):
+============================================================
+Fre: mud; to so Ditoor's psind s, weriougerd s ay'st he ad lif nery trelinchiveses?
+Mupse.
+
+
+TAUMICSINBO, wind Gyock ESIO:
+Girg.
+MIANG I soghers yO:
+Whe wayore I Gage 'lad winciet t iss be whead peerg,
+whan'e co, perofpl fo, he ifotr
+Toreno had we no?
+Benever tsire mas merd cavath wor ferunoo; teed t e, wan wo cendotoure thas re thay a mior
+Bue heean sene st then thandain mo d!
+
+RERMunties haghy alare I wesit weche b testheld baue Re!, aid st E thinghist'de
+Juchil illfours by imin dis;
+Ther mure 
+============================================================
+
+Training complete.
+Include the loss table above and the generated sample in your analysis.pdf.
